@@ -1,3 +1,5 @@
+#Author: Daniel Oram
+
 #Code club Manurewa intermediate
 
 
